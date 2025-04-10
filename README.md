@@ -14,6 +14,6 @@ The overall aesthetic of the website is clean and minimal, with a balanced use o
 
 In conclusion, this portfolio website successfully combines design and functionality to present a well-rounded view of a frontend developer’s skills and achievements. It not only reflects technical competence but also an understanding of modern user experience principles, making it a strong and professional digital presence.
 # output
-![Screenshot 2025-04-10 205226](https://github.com/user-attachments/assets/258e186e-9b9b-475d-9c56-c2bd5f089a4f)
-![Screenshot 2025-04-10 205249](https://github.com/user-attachments/assets/0de6dff6-2b92-4ba3-881f-b57a58a2c5e5)
+![Screenshot 2025-04-10 210343](https://github.com/user-attachments/assets/c7052810-53f6-4e0d-aea4-eee30743b6d6)
+![Screenshot 2025-04-10 210320](https://github.com/user-attachments/assets/82279d06-255b-4faa-ae28-369671b968e5)
 
